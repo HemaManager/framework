@@ -6,6 +6,6 @@ public class java
 	{
 		int a=100;
 		int b=233;
-		System.out.println(a+b);
+		System.out.println("addition is:" +a+b);
 	}
 }
